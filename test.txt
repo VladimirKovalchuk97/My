@@ -1,2 +1,1 @@
-new string
-second string
+bad string
